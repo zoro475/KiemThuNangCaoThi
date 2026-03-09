@@ -4,7 +4,7 @@ public class BaiHat {
     private String ma;
     private String ten;
     private String tenCaSi;
-    private float thoiLuong; // tính bằng phút (ví dụ: 3.5 = 3 phút 30 giây)
+    private float thoiLuong;
     private String theLoai;
 
     public BaiHat() {}
